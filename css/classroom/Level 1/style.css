@@ -1,0 +1,49 @@
+/* * {
+    color: blue;
+}
+
+button {
+    color: brown;
+}
+
+#headingOne {
+    color: yellow;
+}
+#headingTwo {
+    color: crimson;
+}
+.myClass {
+    color: aquamarine;
+} */
+
+/* p {
+    text-align:center;
+    font-weight: 300;
+} */
+/* #h1 {
+    font-weight: 100;
+}
+
+
+a {
+    text-decoration: none;
+}
+#p1 {
+    font-family: cursive;
+
+}
+#p2 {
+    font-family: 'Segoe UI', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+
+
+#one {
+    font-size: 25px;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+#two {
+    font-size: 10px;
+}
+
